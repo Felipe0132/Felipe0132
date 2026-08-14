@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+IS+Felipe+Silva;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+IS+Felipe+Silva;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="./profile/stats.svg" alt="Felipe Silva github stats"/>
