@@ -1,56 +1,57 @@
-<h2 align="left">Olá 👋! Eu sou Felipe Silva</h2>
+<h1 align="center">Olá, eu sou o Felipe 👋</h1>
 
-<p align="left">
-🎓 Estudante de Engenharia da Computação no CEFET-MG (Campus V) <br>
-💻 Apaixonado por tecnologia, programação e desenvolvimento de software <br>
-🚀 Sempre buscando aprender novas ferramentas e evoluir como desenvolvedor
+<p align="center">
+  Estudante de Engenharia da Computação (CEFET-MG) construindo projetos full-stack para aprender na prática.
 </p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-silva-64026b358" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:felipesiilvaa2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/felpo013" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/felipesilva20003" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[Dashboard Brasileirão](#)** | Dashboard da tabela do Brasileirão consumindo a API football-data.org, com gráfico interativo e ordenação por coluna | `Django` `JS Vanilla` `Chart.js` `Bootstrap 5` |
+| **[Gestão Financeira](#)** | App de controle financeiro pessoal com dashboard de gastos/receitas e lançamentos recorrentes parcelados | `Django 4.2` `pandas` `SQLite` `Bootstrap 5` |
+| **[LSH Headline Trends](#)** | Pipeline em C++ para detecção de tendências em ~1.2M manchetes de notícias via MinHash e LSH | `C++` `pthreads` |
+
+> Troque os links `#` pelas URLs reais dos repositórios.
+
+---
+
+### 🛠️ Tecnologias
+
+**Linguagens:** `JavaScript` `Python` `C++` `Java` `C`
+
+**Front-end:** `HTML5` `CSS3` `React`
+
+**Back-end:** `Django`
+
+**Dados:** `SQLite` `pandas`
+
+---
+
+### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe0132&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipe0132&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
 </div>
 
-###
+---
 
-<h3 align="left">🛠️ Tecnologias que utilizo</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
-</div>
-
-###
-
-<h3 align="left">📫 Contato</h3>
-
-<div align="left">
-  <a href="https://www.instagram.com/felipesilva20003" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://discord.com/users/felpo013" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:felipesiilvaa2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/felipe-silva-64026b358" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+<p align="center"><i>Aberto a trocar ideia sobre projetos, estudos ou oportunidades — chama no LinkedIn ou no Discord.</i></p>
