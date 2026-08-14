@@ -29,15 +29,13 @@
 | **[Gestão Financeira](#)** | App de controle financeiro pessoal com dashboard de gastos/receitas e lançamentos recorrentes parcelados | `Django 4.2` `pandas` `SQLite` `Bootstrap 5` |
 | **[LSH Headline Trends](#)** | Pipeline em C++ para detecção de tendências em ~1.2M manchetes de notícias via MinHash e LSH | `C++` `pthreads` |
 
-> Troque os links `#` pelas URLs reais dos repositórios.
-
 ---
 
 ### 🛠️ Tecnologias
 
 **Linguagens:** `JavaScript` `Python` `C++` `Java` `C`
 
-**Front-end:** `HTML5` `CSS3` `React`
+**Front-end:** `HTML5` `CSS3`
 
 **Back-end:** `Django`
 
@@ -48,8 +46,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe0132&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipe0132&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
+  <img src="./profile/stats.svg" height="150"/>
+  <img src="./profile/top-langs.svg" height="150"/>
 </div>
 
 ---
